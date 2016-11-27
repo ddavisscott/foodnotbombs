@@ -1,0 +1,34 @@
+[
+ {
+   "Organisation": "River Street Shelter",
+   "Address": "115C Coral St, Santa Cruz, CA 95060",
+   "Notes": "32-bed emergency shelter for homeless adult men and women",
+   "Call": "831-459-6644",
+   "Website": "http://www.encompasscs.org/community-support-services/river-street-emergency-shelter",
+   "Image": ""
+ },
+ {
+   "Organisation": "Grace Harbor Womans Shelter",
+   "Address": "111 Railroad Ave, Royal Oaks, CA 95076",
+   "Notes": "Assist homeless women, children and families to obtain stable housing through temporary shelter and services. Emergency shelter, meals, clothing, showers",
+   "Call": "831-498-0557",
+   "Website": "http://teenchallengemb.org/our-centers/grace-harbor/",
+   "Image": "http://teenchallengemb.org/2014/wp-content/uploads/2014/08/center-gh.jpg"
+ },
+ {
+   "Organisation": "Grace Harbor Mens Shelter",
+   "Address": "111 Railroad Ave, Royal Oaks, CA 95076",
+   "Notes": "Assist homeless men to obtain stable housing through temporary shelter and services. Emergency shelter, meals, clothing, showers",
+   "Call": "831-498-0557",
+   "Website": "http://teenchallengemb.org/our-centers/grace-harbor/",
+   "Image": "http://teenchallengemb.org/2014/wp-content/uploads/2014/08/center-gh.jpg"
+ },
+ {
+   "Organisation": "Pajaro Rescue Mission",
+   "Address": "115 Brennan St., Watsonville, CA 95076",
+   "Notes": "Transitional housing, emergency shelter, case management",
+   "Call": "831-724-9576",
+   "Website": "http://www.pvshelter.org/",
+   "Image": "http://pvshelter.org/wp-content/uploads/2015/03/pv-logo.png"
+ }
+]

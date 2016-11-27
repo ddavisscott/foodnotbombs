@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<link href="jquery-mobile/jquery.mobile.theme-1.3.0.min.css" rel="stylesheet" type="text/css">
+<link href="jquery-mobile/jquery.mobile.structure-1.3.0.min.css" rel="stylesheet" type="text/css">
+<<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+
+</head>
+
+<body>
+
+<div id ="postlist"></div>
+
+
+
+<script>
+// JavaScript Document
+
+var data =[
+	{"firstName":"John", "lastName":"Doe"},
+    {"firstName":"Anna", "lastName":"Smith"},
+    {"firstName":"Peter", "lastName":"Jones"}
+];
+
+function listElements (data){
+	var output ='<ul data-role ="content" data-filter ="true">';
+	
+	$.each(data, function(key,val){
+			output+='<li>';
+			output+='<h2>'+ val.firstName + '</h2>';
+			output+='<h2>'+ val.lastName + '</h2>';
+
+			
+			output+='</li>';
+		console.log (val.firstName);	
+	 });//go through eacn element
+		output+='</ul>';
+	$('#postlist').html(output);
+	}
+
+
+listElements(data);
+
+
+
+
+</script>
+</body>
+</html>

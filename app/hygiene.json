@@ -1,0 +1,98 @@
+var data = [
+  {
+    "Organization": "Homeless Services Center",
+    "Address": "115A Coral St, Santa Cruz, CA 95060",
+    "Notes": "Showers & toilets",
+    "Hours": "10am-1:30pm",
+    "Days": "Monday-Sunday",
+    "Call": "(831) 458-6020"
+  },
+  {
+    "Organization": "St. Francis Soup Kitchen",
+    "Address": "205 Mora St, Santa Cruz, CA 95060",
+    "Notes": "Showers & Toilet",
+    "Hours": "11am-12:30pm",
+    "Days": "Monday-Friday",
+    "Call": "(831) 459-6712"
+  },
+  {
+    "Organization": "Locust-Cedar Public Garage",
+    "Address": "124 Locust St, Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "6am-10pm",
+    "Days": "Monday-Sunday",
+    "Call": ""
+  },
+  {
+    "Organization": "Louden Nelson Community Center",
+    "Address": "301 Center St, Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "9am-9:30pm",
+    "Days": "Monday-Friday",
+    "Call": ""
+  },
+  {
+    "Organization": "Portapotty",
+    "Address": "Corner of Front and Laurel St",
+    "Notes": "Toilets",
+    "Hours": "24/7",
+    "Days": "Monday-Sunday",
+    "Call": ""
+  },
+  {
+    "Organization": "Portapotty",
+    "Address": "Corner of Cedar and Lincoln St.",
+    "Notes": "Toilets",
+    "Hours": "10pm-6am",
+    "Days": "Nightly",
+    "Call": ""
+  },
+  {
+    "Organization": "Portapotty",
+    "Address": "Parking lot Cedar/Center/Mission St.",
+    "Notes": "Toilets",
+    "Hours": "10pm-6am",
+    "Days": "Nightly",
+    "Call": ""
+  },
+  {
+    "Organization": "Santa Cruz City Hall",
+    "Address": "809 Center St., Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "8am-5pm",
+    "Days": "Monday-Friday",
+    "Call": ""
+  },
+  {
+    "Organization": "Santa Cruz Public Library",
+    "Address": "224 Church St., Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "10am-7pm",
+    "Days": "Monday-Thursday",
+    "Call": ""
+  },
+  {
+    "Organization": "Santa Cruz Public Library",
+    "Address": "224 Church St., Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "10am-5pm",
+    "Days": "Fiday-Saturday",
+    "Call": ""
+  },
+  {
+    "Organization": "Santa Cruz Public Library",
+    "Address": "224 Church St., Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "1pm-5pm",
+    "Days": "Sunday",
+    "Call": ""
+  },
+  {
+    "Organization": "Soquel-Front St. Public Garage",
+    "Address": "601 Front St., Santa Cruz, CA 95060",
+    "Notes": "Toilets",
+    "Hours": "6am-10pm",
+    "Days": "Monday-Sunday",
+    "Call": ""
+  }
+]
